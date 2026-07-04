@@ -12,7 +12,13 @@ h1
  font-size: 80px;
  margin: 20px;
 text-align: center; 
-}  	
+}  
+h2
+{
+ font-size: 80px;
+ margin: 20px;
+text-align: center; 
+}  		
 *{
 margin: 0;
 padding: 0;
