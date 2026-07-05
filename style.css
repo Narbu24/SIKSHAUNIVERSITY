@@ -8,7 +8,7 @@ background-position: center;
 }
 h1
 {
- color: Black;
+ color: Red;
  font-size: 80px;
  margin: 20px;
 text-align: center; 
@@ -50,7 +50,7 @@ color: red;
 }
 p
 {
-color: red;
+color: Black;
 margin: 20px;
 text-align: center;
 font-size: 40px;
